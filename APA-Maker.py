@@ -1,3 +1,4 @@
+# Download SmartConsole.py from: https://github.com/VladFeldfix/Smart-Console/blob/main/SmartConsole.py
 from SmartConsole import *
 
 class main:
