@@ -4,10 +4,10 @@ class main:
     # constructor
     def __init__(self):
         # load smart console
-        self.sc = SmartConsole("APA Maker", "2.0")
+        self.sc = SmartConsole("APA Maker", "1.0")
 
         # set-up main memu
-        self.sc.main_menu["RUN"] = self.run
+        self.sc.add_main_menu_item("RUN", self.run)
 
         # start
         self.sc.start()

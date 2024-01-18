@@ -1,5 +1,5 @@
-(['D:\\Users\\Vlad\\Projects\\Applications\\APA-Maker\\v2\\APA-Maker.py'],
- ['D:\\Users\\Vlad\\Projects\\Applications\\APA-Maker\\v2'],
+(['D:\\Users\\Vlad\\Projects\\Applications\\APA-Maker\\APA-Maker.py'],
+ ['D:\\Users\\Vlad\\Projects\\Applications\\APA-Maker'],
  ['codecs'],
  ['C:\\Users\\HP '
   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
@@ -25,7 +25,7 @@
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('APA-Maker',
-   'D:\\Users\\Vlad\\Projects\\Applications\\APA-Maker\\v2\\APA-Maker.py',
+   'D:\\Users\\Vlad\\Projects\\Applications\\APA-Maker\\APA-Maker.py',
    'PYSOURCE')],
  [('inspect',
    'C:\\Users\\HP '
@@ -383,18 +383,6 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
    'PYMODULE'),
-  ('subprocess',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
-   'PYMODULE'),
-  ('signal',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
-   'PYMODULE'),
-  ('stringprep',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
-   'PYMODULE'),
   ('getpass',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getpass.py',
@@ -435,21 +423,33 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\client.py',
    'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
+   'PYMODULE'),
   ('_py_abc',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
    'PYMODULE'),
   ('SmartConsole',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\SmartConsole.py',
    'PYMODULE')],
- [('VCRUNTIME140.dll',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
-   'BINARY'),
-  ('python311.dll',
+ [('python311.dll',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
    'BINARY'),
   ('_decimal.pyd',
    'C:\\Users\\HP '
@@ -494,6 +494,6 @@
  [],
  [],
  [('base_library.zip',
-   'D:\\Users\\Vlad\\Projects\\Applications\\APA-Maker\\v2\\build\\APA-Maker\\base_library.zip',
+   'D:\\Users\\Vlad\\Projects\\Applications\\APA-Maker\\build\\APA-Maker\\base_library.zip',
    'DATA')],
  [])
