@@ -11,7 +11,9 @@ class main:
         self.sc.add_main_menu_item("RUN", self.run)
 
         # start
-        self.sc.start()
+        try:
+            self.sc.start()
+        except Exception as e: print(e)
     
     def run(self):
         fname = self.sc.input("Author first name")

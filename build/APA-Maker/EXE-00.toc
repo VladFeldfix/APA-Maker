@@ -75,13 +75,13 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
    'EXTENSION'),
-  ('unicodedata.pyd',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
-   'EXTENSION'),
   ('_ssl.pyd',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
    'EXTENSION'),
   ('libcrypto-1_1.dll',
    'C:\\Users\\HP '
@@ -97,7 +97,7 @@
  [],
  False,
  False,
- 1705605509,
+ 1713970699,
  [('run.exe',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',

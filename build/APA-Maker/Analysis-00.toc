@@ -10,7 +10,9 @@
   'C:\\Users\\HP '
   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
   'C:\\Users\\HP '
-  'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+  'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks',
+  'C:\\Users\\HP '
+  'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_pyinstaller'],
  {},
  [],
  [],
@@ -379,9 +381,13 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ast.py',
    'PYMODULE'),
-  ('tracemalloc',
+  ('subprocess',
    'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
    'PYMODULE'),
   ('getpass',
    'C:\\Users\\HP '
@@ -423,25 +429,37 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\client.py',
    'PYMODULE'),
-  ('subprocess',
+  ('stringprep',
    'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
-   'PYMODULE'),
-  ('signal',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
    'PYMODULE'),
   ('_py_abc',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
    'PYMODULE'),
-  ('stringprep',
+  ('tracemalloc',
    'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
    'PYMODULE'),
   ('SmartConsole',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\SmartConsole.py',
+   'PYMODULE'),
+  ('termcolor',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\termcolor\\__init__.py',
+   'PYMODULE'),
+  ('termcolor.termcolor',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\termcolor\\termcolor.py',
+   'PYMODULE'),
+  ('termcolor._types',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\termcolor\\_types.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
    'PYMODULE')],
  [('python311.dll',
    'C:\\Users\\HP '
@@ -475,13 +493,13 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
    'EXTENSION'),
-  ('unicodedata.pyd',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
-   'EXTENSION'),
   ('_ssl.pyd',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
    'EXTENSION'),
   ('libcrypto-1_1.dll',
    'C:\\Users\\HP '
