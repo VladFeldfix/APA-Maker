@@ -1,4 +1,4 @@
-('D:\\Users\\Vlad\\Projects\\Applications\\APA-Maker\\build\\APA-Maker\\PYZ-00.pyz',
+('D:\\Users\\Vlad\\Projects\\Applicationss\\APA-Maker\\build\\APA-Maker\\PYZ-00.pyz',
  [('inspect',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\inspect.py',
@@ -351,13 +351,13 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ast.py',
    'PYMODULE'),
-  ('subprocess',
+  ('_py_abc',
    'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
    'PYMODULE'),
-  ('signal',
+  ('stringprep',
    'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
    'PYMODULE'),
   ('getpass',
    'C:\\Users\\HP '
@@ -399,13 +399,13 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\client.py',
    'PYMODULE'),
-  ('stringprep',
+  ('subprocess',
    'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
    'PYMODULE'),
-  ('_py_abc',
+  ('signal',
    'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
    'PYMODULE'),
   ('tracemalloc',
    'C:\\Users\\HP '
